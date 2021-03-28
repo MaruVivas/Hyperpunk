@@ -5,6 +5,15 @@ body {
     font-size: 16px;
 }
 
+#cabecera {
+    background: #33A;
+    box-shadow: opx 5px 30px 0px rgba(0, 0, 0, 0.75 )
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
 #container {
     width: 70%;
     padding: 1em;
@@ -16,3 +25,5 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+#post
